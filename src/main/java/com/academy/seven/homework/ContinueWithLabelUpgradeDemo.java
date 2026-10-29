@@ -18,7 +18,7 @@ package com.academy.seven.homework;
  */
 public class ContinueWithLabelUpgradeDemo {
     static void main(String[] args) {
-        String recenica = "Look for a substring in me";
+        String recenica = "Look for a substring in me sub subsub";
         String rijec = "sub";
         // Konverzija u nizove
         boolean contains = false;
